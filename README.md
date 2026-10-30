@@ -52,6 +52,11 @@ Wireframes were created in Canva before coding started. The layout is made for d
 - DONT FORGET to comment on what from the Wireframes ended up not making it.
 
 ### Surface
+
+Left to add
+- Font choice
+- Images
+
 #### Color palette
 ![Colour palette](docs/color-palette.png)
 
@@ -59,10 +64,16 @@ Wireframes were created in Canva before coding started. The layout is made for d
 
 The goal was to get a combination that gives a professional and calm impression.
 
+#### Contrast
 
+Color combinations checked with WebAIM Contrast Checker.
 
-- Font choice
-- Images
+![Navy on off-white](docs/testing/contrast-navy-offwhite.png)
+![Navy on blue-grey](docs/testing/contrast-navy-grey.png)
+![White on navy](docs/testing/contrast-navy-white.png)
+![Navy on orange](docs/testing/contrast-navy-orange.png)
+![Dark orange on white](docs/testing/contrast-orange-white.png)
+
 
 ### User Stories
 https://github.com/users/telljacob/projects/7/views/1
