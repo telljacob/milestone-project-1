@@ -1,5 +1,9 @@
 ﻿# Erik Lund Personal Training - Milestone Project 1 
 
+A website for Erik Lund (not a real person), a personal trainer in Stockholm. Visitors and potential clients can learn about hi, his different services and his pricing. They can read testimonials and book a free consultation via a simple form. 
+
+[Live site](https://telljacob.github.io/milestone-project-1/)
+
 ## UX
 
 ### Strategy
@@ -22,13 +26,19 @@
 - Book a consultation or buy a personal training session.
   
 ### Scope
-- Features in scope
-- Out of scope (what got dropped)
+- Three pages: Home, Booking and Thank you.
+- Home page contains hero, about section, services, price list, testimonials.
+- Booking page with a form with validation. No real payment or calendar.
+
+### Future scope
+- Advance calendar for booking appointments
+- Checkout to pay
 
 ### Structure
-- Map: Home (with sections about, testimonials, services). Booking page -> Thank you page
-- Information architectore (IA):
-- Interaction design
+- Map: Home (with sections about, testimonials, services). 
+- Book buttons lead to the booking page.
+- Filling out the form on the booking page leads to the thank-you page.
+- Navbar and footer is identical on all pages
 
 ### Skeleton
 Wireframes were created in Canva before coding started. The layout is made for desktop, tablet and mobile for each page.
@@ -101,6 +111,10 @@ https://github.com/users/telljacob/projects/7/views/1
 ## Development Process
 
 ## Testing
+### Validators
+- HTML: no errors on all three pages. Check via (https://validator.w3.org/)
+- CSS: no errors. Check via (https://jigsaw.w3.org/css-validator/)
+
 - Choosing a color palette was done by trial and error in Coolors.
 - Testing of color contrast done in WebAIM checker.
  
@@ -108,11 +122,12 @@ https://github.com/users/telljacob/projects/7/views/1
 ## Deployment
 
 ## Credits
-Hero image by Vitaly Gariev on Unsplash
-Portrait of Erik by Vitaly Gariev on Unsplash
-Favicons generated with favicon.io
+### Code
+- Bootstrap 5.3 - copied grid, navbar and form (navbar and form adapted but used the standard to start off)
+- Font Awesome - social icons.
+- Google Fonts - Oswald and Inter
 
-### Code?
-### Content?
-### Media (any photographs from somewhere?)
-## Acknowledgements
+### Media
+- Hero image and portrait by Vitaly Gariev on Unsplash.
+- Portrait of Erik by Vitaly Gariev on Unsplash
+- Favicon generated with favicon.io
