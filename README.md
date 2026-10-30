@@ -52,10 +52,14 @@ Wireframes were created in Canva before coding started. The layout is made for d
 - DONT FORGET to comment on what from the Wireframes ended up not making it.
 
 ### Surface
-
 Left to add
-- Font choice
 - Images
+
+
+#### Typography
+Fonts chosen and imported from Google Fonts.
+
+- Oswald as main and Inter as fallback
 
 #### Color palette
 ![Colour palette](docs/color-palette.png)
@@ -97,6 +101,9 @@ https://github.com/users/telljacob/projects/7/views/1
 ## Development Process
 
 ## Testing
+- Choosing a color palette was done by trial and error in Coolors.
+- Testing of color contrast done in WebAIM checker.
+ 
 
 ## Deployment
 
