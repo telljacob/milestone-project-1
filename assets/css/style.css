@@ -27,7 +27,11 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: 30px;
-} 
+}
+
+h3 {
+    margin-bottom: 10px;
+}
 
 /* Hero section */
 #hero {
@@ -92,4 +96,11 @@ footer a {
 
 footer i {
     font-size: 1.5rem;
+}
+
+/* Media queries */
+@media (min-width: 768px) {
+    main section {
+        padding: 60px 0;
+    }
 }
