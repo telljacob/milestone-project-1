@@ -72,3 +72,15 @@ h3 {
 main .section {
     padding: 60px 0;
 }
+
+/* Footer */
+footer {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 30px 0;
+}
+
+footer a {
+    color: white;
+    margin-right: 15px;
+}
