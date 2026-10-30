@@ -27,3 +27,18 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+
+/* Hero section */
+#hero {
+    background: url(../images/hero.webp) center / cover;
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+#hero h1 {
+    color: white;
+}
