@@ -62,14 +62,19 @@ h3 {
 }
 
 /* Navbar */
+.navbar {
+    background-color: var(--background-color);
+}
+
 .navbar-brand {
-    color: var(--secondary-font);
+    font-family: var(--secondary-font);
     color: var(--primary-color);
     font-size: 2rem;
+    letter-spacing: 1px;
 }
 
 /* Sections */
-main .section {
+main section {
     padding: 60px 0;
 }
 
