@@ -42,3 +42,14 @@ h3 {
 #hero h1 {
     color: white;
 }
+
+/* Buttons */
+
+.btn-book {
+    display: inline-block;
+    background-color: var(--accent-color);
+    color: var(--primary-color);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
