@@ -31,6 +31,7 @@ h3 {
 
 h3 {
     margin-bottom: 10px;
+    font-size: 1.25rem;
 }
 
 /* Hero section */
@@ -79,7 +80,7 @@ h3 {
 
 /* Sections */
 main section {
-    padding: 60px 0;
+    padding: 40px 0 0;
 }
 
 /* Footer */
