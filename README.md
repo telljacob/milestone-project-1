@@ -110,6 +110,7 @@ https://github.com/users/telljacob/projects/7/views/1
 ## Credits
 Hero image by Vitaly Gariev on Unsplash
 Portrait of Erik by Vitaly Gariev on Unsplash
+Favicons generated with favicon.io
 
 ### Code?
 ### Content?
