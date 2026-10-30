@@ -1,2 +1,15 @@
+/* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;&family=Oswald:wght@500&display=swap');
 
+/* CSS variables */
+:root {
+    --primary-font: "Inter", sans-serif;
+    --secondary-font: "Oswald", sans-serif;
+    --primary-color: #1A2A44; /* navy */
+    --secondary-color: #DFE6EF; /* grey */
+    --background-color: #F1EFEB; /* off-white */
+    --accent-color: #E07930; /* orange */
+    --accent-color-dark: #C5621C; /* dark orange */
+}
+
+/* Global styles */
