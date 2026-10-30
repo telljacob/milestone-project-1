@@ -85,6 +85,48 @@ Color combinations checked with WebAIM Contrast Checker.
 https://github.com/users/telljacob/projects/7/views/1
 
 ## Features
+### Existing Features
+
+#### Navbar and hero
+Sticky navbar on all pages with the "EL" logo. The hero shows what Erik offers and a button to book a free consultation.
+
+![Navbar and hero](docs/testing/hero.png)
+
+On mobile the navbar collapses into a hamburger menu, which closes when a link is clicked.
+
+![Mobile start](docs/testing/phone-start.png)
+![Mobile navigation](docs/testing/phone-nav.png)
+
+#### About, services and price list
+About presents Erik's background and qualifications. Services shows strength, endurance and weight loss, each with a booking button. The price list makes prices clear before booking.
+
+![Services and price list](docs/testing/what-i-do-price-list.png)
+![Mobile content](docs/testing/phone-content.png)
+
+#### Testimonials
+Short quotes from clients that build trust.
+
+![Testimonials](docs/testing/testimonials.png)
+
+#### Booking form
+Name and email are required, the email format is checked, and the phone field only accepts numbers, spaces, + and -.
+
+![Booking page](docs/testing/booking-page.png)
+![Mobile booking](docs/testing/phone-booking.png)
+
+#### Thank-you page
+Confirms that the request was sent and links back to the home page.
+
+![Thank-you page](docs/testing/thank-you-page.png)
+
+#### Footer
+Contact details and social links that open in a new tab, on all pages.
+
+![Mobile footer](docs/testing/phone-footer.png)
+
+### Future Features
+- Online payment and calendar booking.
+- A separate page for each service.
 
 ### Existing Features
 ### Future Features
@@ -111,8 +153,9 @@ https://github.com/users/telljacob/projects/7/views/1
 - Choosing a color palette was done by trial and error in Coolors.
 - Testing of color contrast done in WebAIM checker.
  
-
-## Deployment
+### Bugs fixed
+- Favicon didn't show → folder name didn't match the link path.
+- Footer floated mid-page on the thank-you page. Fixed with flexbox 'min-vh-100'.
 
 ## Credits
 ### Code
