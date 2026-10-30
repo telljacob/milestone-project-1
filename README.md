@@ -23,36 +23,42 @@ Wireframes were created in Canva before coding started. The layout is made for d
 HOMEPAGE
 
 **Desktop**
-(docs/wireframes/home-desktop.png)
+![Home page wireframe, desktop](docs/wireframes/home-desktop.png)
 
 **Tablet**
-(docs/wireframes/home-tablet.png)
+![Home page wireframe, tablet](docs/wireframes/home-tablet.png)
 
 **Mobile**
-(docs/wireframes/home-mobile.png)
+![Home page wireframe, mobile](docs/wireframes/home-mobile.png)
 
 BOOKING PAGE
 
 **Desktop**
-(docs/wireframes/booking-desktop.png)
+
+![Booking page wireframe, desktop](docs/wireframes/booking-desktop.png)
 
 **Tablet**
-(docs/wireframes/booking-tablet.png)
+
+![Booking page wireframe, tablet](docs/wireframes/booking-tablet.png)
 
 **Mobile**
-(docs/wireframes/booking-mobile.png)
+
+![Booking page wireframe, mobile](docs/wireframes/booking-mobile.png)
 
 
 THANK YOU PAGE
 
 **Desktop**
-(docs/wireframes/thank-you-desktop.png)
+
+![Thank-you page wireframe, desktop](docs/wireframes/thank-you-desktop.png)
 
 **Tablet**
-(docs/wireframes/thank-you-tablet.png)
+
+![Thank-you page wireframe, tablet](docs/wireframes/thank-you-tablet.png)
 
 **Mobile**
-(docs/wireframes/thank-you-mobile.png)
+
+![Thank-you page wireframe, mobile](docs/wireframes/thank-you-mobile.png)
 
 #### Changes to wireframes
 - DONT FORGET to comment on what from the Wireframes ended up not making it.
