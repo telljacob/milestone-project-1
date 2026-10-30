@@ -128,21 +128,22 @@ Contact details and social links that open in a new tab, on all pages.
 - Online payment and calendar booking.
 - A separate page for each service.
 
-### Future Features
-- Payment and booking via calendar.
-
 ## Technologies Used
 ### Languages
 - HTML5
 - CSS3
+
+### Frameworks
+- Bootstrap 5.3
+
+### Other
+- Git, Github, VSCode, Google Devtools, favicon.io
 
 ### Tools
 - [Canva](https://www.canva.com/)
 - [Coolors](https://coolors.co/)
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [TinyPNG](https://tinypng.com/)
-
-## Development Process
 
 ## Testing
 ### Validators
