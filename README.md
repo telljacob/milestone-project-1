@@ -17,8 +17,44 @@
 - Information architectore (IA):
 - Interaction design
 
-### Sceleton
-- Wireframes
+### Skeleton
+Wireframes were created in Canva before coding started. The layout is made for desktop, tablet and mobile for each page.
+
+HOMEPAGE
+
+**Desktop**
+(docs/wireframes/home-desktop.png)
+
+**Tablet**
+(docs/wireframes/home-tablet.png)
+
+**Mobile**
+(docs/wireframes/home-mobile.png)
+
+BOOKING PAGE
+
+**Desktop**
+(docs/wireframes/booking-desktop.png)
+
+**Tablet**
+(docs/wireframes/booking-tablet.png)
+
+**Mobile**
+(docs/wireframes/booking-mobile.png)
+
+
+THANK YOU PAGE
+
+**Desktop**
+(docs/wireframes/thank-you-desktop.png)
+
+**Tablet**
+(docs/wireframes/thank-you-tablet.png)
+
+**Mobile**
+(docs/wireframes/thank-you-mobile.png)
+
+#### Changes to wireframes
 - DONT FORGET to comment on what from the Wireframes ended up not making it.
 
 ### Surface
