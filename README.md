@@ -58,25 +58,23 @@ Wireframes were created in Canva before coding started. The layout is made for d
 ![Thank-you page wireframe, tablet](docs/wireframes/thank-you-tablet.png)
 ![Thank-you page wireframe, mobile](docs/wireframes/thank-you-mobile.png)
 
-#### Changes to wireframes
-- DONT FORGET to comment on what from the Wireframes ended up not making it.
-
 ### Surface
 Left to add
 - Images
 
 
 #### Typography
-Fonts chosen and imported from Google Fonts.
-
-- Oswald as main and Inter as fallback
+- Oswald for headings and the logo
+- Inter for body
 
 #### Color palette
 ![Colour palette](docs/color-palette.png)
 
-**REMEMBER TO ADD: Combinations and design choices**
-
+**Combinations and design choices**
 The goal was to get a combination that gives a professional and calm impression.
+- Navy for the text, headings and footer
+- Off-white used as background
+- Orange as accent color and in buttons
 
 #### Contrast
 
