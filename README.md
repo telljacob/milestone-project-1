@@ -3,10 +3,20 @@
 ## UX
 
 ### Strategy
-- Business goals
-- Target audience
-- User goals
-- Trade offs
+#### Business goals
+- Get visitors to book a free consultation or buy a paid service.
+- Communicate that the coach is a qualified and supportive personal trainer.
+- Make prices clear up front.
+
+#### Target audience
+**Main audience: beginners and people returning to training**
+**Secondary audience: busy professionals**
+
+#### User goals
+- Get a good understanding of Erik, his qualifications and his coaching style.
+- That prices are shown up front and not hidden.
+- Read about people's experiences with Erik.
+- Book a consultation or buy a personal training session.
   
 ### Scope
 - Features in scope
