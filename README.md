@@ -10,7 +10,10 @@
 
 #### Target audience
 **Main audience: beginners and people returning to training**
+- Adults who wants some help getting started in the gym, either starting from scratch or coming back from an injury.
+
 **Secondary audience: busy professionals**
+- There are many busy professionals in Stockholm and a good portion of them wants to optimize their training with a personal trainer.
 
 #### User goals
 - Get a good understanding of Erik, his qualifications and his coaching style.
