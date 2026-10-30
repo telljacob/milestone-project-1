@@ -26,7 +26,8 @@ h3 {
     color: var(--primary-color);
     text-transform: uppercase;
     letter-spacing: 1px;
-}
+    margin-bottom: 30px;
+} 
 
 /* Hero section */
 #hero {
@@ -65,4 +66,9 @@ h3 {
     color: var(--secondary-font);
     color: var(--primary-color);
     font-size: 2rem;
+}
+
+/* Sections */
+main .section {
+    padding: 60px 0;
 }
