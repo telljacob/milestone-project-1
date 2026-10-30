@@ -59,10 +59,6 @@ Wireframes were created in Canva before coding started. The layout is made for d
 ![Thank-you page wireframe, mobile](docs/wireframes/thank-you-mobile.png)
 
 ### Surface
-Left to add
-- Images
-
-
 #### Typography
 - Oswald for headings and the logo
 - Inter for body
@@ -77,7 +73,6 @@ The goal was to get a combination that gives a professional and calm impression.
 - Orange as accent color and in buttons
 
 #### Contrast
-
 Color combinations checked with WebAIM Contrast Checker.
 
 ![Navy on off-white](docs/testing/contrast-navy-offwhite.png)
@@ -86,7 +81,6 @@ Color combinations checked with WebAIM Contrast Checker.
 ![Navy on orange](docs/testing/contrast-navy-orange.png)
 ![Dark orange on white](docs/testing/contrast-orange-white.png)
 
-
 ### User Stories
 https://github.com/users/telljacob/projects/7/views/1
 
@@ -94,6 +88,7 @@ https://github.com/users/telljacob/projects/7/views/1
 
 ### Existing Features
 ### Future Features
+- Payment and booking via calendar.
 
 ## Technologies Used
 ### Languages
