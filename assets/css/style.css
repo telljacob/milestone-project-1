@@ -30,7 +30,7 @@ h3 {
 
 /* Hero section */
 #hero {
-    background: linear-gradient(rgba(26,42,68, 0.7), rgba(26, 42, 68, 0.7)), url(../images/hero.webp) center / cover;
+    background: linear-gradient(rgba(26, 42, 68, 0.8), rgba(26, 42, 68, 0.8)), url(../images/hero.webp) center / cover;
     min-height: 60vh;
     display: flex;
     align-items: center;
@@ -44,12 +44,17 @@ h3 {
 }
 
 /* Buttons */
-
 .btn-book {
     display: inline-block;
     background-color: var(--accent-color);
     color: var(--primary-color);
-    padding: 10px;
+    padding: 10px 22px;
     border-radius: 5px;
     text-decoration: none;
+}
+
+.btn-book:hover,
+.btn-book:focus {
+    background-color: var(--primary-color);
+    color: white;
 }
