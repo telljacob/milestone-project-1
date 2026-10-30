@@ -52,7 +52,15 @@ Wireframes were created in Canva before coding started. The layout is made for d
 - DONT FORGET to comment on what from the Wireframes ended up not making it.
 
 ### Surface
-- Colours, contrast
+#### Color palette
+![Colour palette](docs/color-palette.png)
+
+**REMEMBER TO ADD: Combinations and design choices**
+
+The goal was to get a combination that gives a professional and calm impression.
+
+
+
 - Font choice
 - Images
 
@@ -65,16 +73,25 @@ https://github.com/users/telljacob/projects/7/views/1
 ### Future Features
 
 ## Technologies Used
+### Languages
+- HTML5
+- CSS3
 
-##Development Process
+### Tools
+- [Canva](https://www.canva.com/) – wireframes
+- [Coolors](https://coolors.co/) – colour palette
+- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) – colour contrast testing
+- [TinyPNG](https://tinypng.com/) – image compression
 
-##Testing
+## Development Process
+
+## Testing
 
 ## Deployment
 
 ## Credits
 
-###Code?
-###Content?
-###Media (any photographs from somewhere?)
-##Acknowledgements
+### Code?
+### Content?
+### Media (any photographs from somewhere?)
+## Acknowledgements
