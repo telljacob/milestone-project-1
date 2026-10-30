@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
             name="description"
-            content="Book a private training session or a free consultation Erik Lund in Stockholm who offers training services to beginners and busy professionals."
+            content="Book a private training session or a free consultation with Erik Lund in Stockholm who offers training services to beginners and busy professionals."
         />
         <title>Book a session | Erik Lund</title>
 
@@ -26,7 +26,7 @@
     <body>
         <!-- Navigation section adapted from Bootstrap 5.3 documentation -->
         <nav class="navbar navbar-expand-md sticky-top">
-            <div class="container-fluid">
+            <div class="container">
                 <a class="navbar-brand" href="index.html">EL</a>
                 <button
                     class="navbar-toggler"
@@ -42,7 +42,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.html#hero">Home</a>
+                            <a class="nav-link" href="index.html#hero">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="index.html#about">About</a>
@@ -54,7 +54,7 @@
                             <a class="nav-link" href="index.html#testimonials">Testimonials</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="booking.html">Book</a>
+                            <a class="nav-link active" aria-current="page" href="booking.html">Book</a>
                         </li>
                     </ul>
                 </div>
@@ -64,22 +64,40 @@
         <!-- Main content -->
         <main>
             <section>
-                <form>
-                    <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
-                        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 col-md-8 col-lg-6">
+                            <h1>Get in touch</h1>
+                            <p>
+                                Feel free to send me a message or book in a consultation. You can also DM me on
+                                Instagram!
+                            </p>
+                            <form>
+                                <div class="mb-3">
+                                    <label for="exampleInputEmail1" class="form-label">Email address</label>
+                                    <input
+                                        type="email"
+                                        class="form-control"
+                                        id="exampleInputEmail1"
+                                        aria-describedby="emailHelp"
+                                    />
+                                    <div id="emailHelp" class="form-text">
+                                        We'll never share your email with anyone else.
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleInputPassword1" class="form-label">Password</label>
+                                    <input type="password" class="form-control" id="exampleInputPassword1" />
+                                </div>
+                                <div class="mb-3 form-check">
+                                    <input type="checkbox" class="form-check-input" id="exampleCheck1" />
+                                    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </form>
+                        </div>
                     </div>
-                    <div class="mb-3">
-                        <label for="exampleInputPassword1" class="form-label">Password</label>
-                        <input type="password" class="form-control" id="exampleInputPassword1" />
-                    </div>
-                    <div class="mb-3 form-check">
-                        <input type="checkbox" class="form-check-input" id="exampleCheck1" />
-                        <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                </form>
+                </div>
             </section>
         </main>
 
