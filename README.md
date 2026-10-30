@@ -78,10 +78,10 @@ https://github.com/users/telljacob/projects/7/views/1
 - CSS3
 
 ### Tools
-- [Canva](https://www.canva.com/) – wireframes
-- [Coolors](https://coolors.co/) – colour palette
-- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) – colour contrast testing
-- [TinyPNG](https://tinypng.com/) – image compression
+- [Canva](https://www.canva.com/)
+- [Coolors](https://coolors.co/)
+- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [TinyPNG](https://tinypng.com/)
 
 ## Development Process
 
