@@ -1,6 +1,6 @@
 ﻿# Erik Lund Personal Training - Milestone Project 1 
 
-A website for Erik Lund (not a real person), a personal trainer in Stockholm. Visitors and potential clients can learn about hi, his different services and his pricing. They can read testimonials and book a free consultation via a simple form. 
+A website for Erik Lund (not a real person), a personal trainer in Stockholm. Visitors and potential clients can learn about him, his different services and his pricing. They can read testimonials and book a free consultation via a simple form. 
 
 [Live site](https://telljacob.github.io/milestone-project-1/)
 
@@ -17,7 +17,7 @@ A website for Erik Lund (not a real person), a personal trainer in Stockholm. Vi
 - Adults who wants some help getting started in the gym, either starting from scratch or coming back from an injury.
 
 **Secondary audience: busy professionals**
-- There are many busy professionals in Stockholm and a good portion of them wants to optimize their training with a personal trainer.
+- There are many busy professionals in Stockholm and a good portion of them want to optimize their training with a personal trainer.
 
 #### User goals
 - Get a good understanding of Erik, his qualifications and his coaching style.
@@ -128,7 +128,6 @@ Contact details and social links that open in a new tab, on all pages.
 - Online payment and calendar booking.
 - A separate page for each service.
 
-### Existing Features
 ### Future Features
 - Payment and booking via calendar.
 
@@ -147,23 +146,52 @@ Contact details and social links that open in a new tab, on all pages.
 
 ## Testing
 ### Validators
-- HTML: no errors on all three pages. Check via (https://validator.w3.org/)
-- CSS: no errors. Check via (https://jigsaw.w3.org/css-validator/)
+All pages pass the [W3C HTML validator](https://validator.w3.org/) and the CSS passes [Jigsaw](https://jigsaw.w3.org/css-validator/) with no errors.
 
-- Choosing a color palette was done by trial and error in Coolors.
-- Testing of color contrast done in WebAIM checker.
+![HTML home](docs/testing/html-check-home-page.png)
+![HTML booking](docs/testing/html-check-booking-page.png)
+![HTML thank you](docs/testing/html-check-success-page.png)
+![CSS](docs/testing/css-check.png)
+
+### Lighthouse
+![Lighthouse](docs/testing/lighthouse-score.png)
+
+### Manual testing
+| Feature | Expected | Testing | Result |
+|---|---|---|---|
+| Nav links | Go to right section/page | Clicked each link on all pages | Works |
+| Hamburger menu | Opens and closes on link click | Tested at 375px | Works |
+| Book buttons | Open booking page | Clicked all | Works |
+| Form, empty | Not sent | Submitted empty | Works |
+| Form, invalid email | Not sent | Typed "abc" | Works |
+| Form, letters in phone | Not sent | Typed "abc" | Works |
+| Form, valid | Thank-you page opens | Filled name + email | Works |
+| Social links | Open in new tab | Clicked each icon | Works |
+| Responsive | No overflow, readable | DevTools 375 / 768 / 1280px | Works |
+
+### Colour contrast
+Checked in WebAIM, see the Contrast section above.
  
 ### Bugs fixed
 - Favicon didn't show → folder name didn't match the link path.
 - Footer floated mid-page on the thank-you page. Fixed with flexbox 'min-vh-100'.
 
+## Deployment
+The site is deployed with GitHub Pages:
+1. Go to repository, go to Settings, go to Pages.
+2. Under Source, choose Deploy from a branch, branch main, folder / (root), and click Save.
+3. The site is live at https://telljacob.github.io/milestone-project-1/.
+
 ## Credits
 ### Code
-- Bootstrap 5.3 - copied grid, navbar and form (navbar and form adapted but used the standard to start off)
-- Font Awesome - social icons.
-- Google Fonts - Oswald and Inter
+- [Bootstrap 5.3](https://getbootstrap.com/) – grid, navbar and form (navbar and form adapted from the documentation).
+- Navbar collapse script – Code Institute course material.
+- [Font Awesome](https://fontawesome.com/) – social icons.
+- [Google Fonts](https://fonts.google.com/) – Oswald and Inter.
 
 ### Media
-- Hero image and portrait by Vitaly Gariev on Unsplash.
-- Portrait of Erik by Vitaly Gariev on Unsplash
-- Favicon generated with favicon.io
+- Hero image and portrait by [Vitaly Gariev](https://unsplash.com/@silverkblack) on Unsplash.
+- Favicon generated with [favicon.io](https://favicon.io/).
+
+### Content
+- Erik Lund is a fictional person.
